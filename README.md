@@ -1,0 +1,3 @@
+Código correspondiente el capítulo 4 de Programación en Red e Inteligencia Artifical con Unity, ed. Ra-Ma
+
+En este capítulo se aborda un proyecto multijugador (parte 3), la idea o one-pager del juego es la siguiente: Un juego 2D de 2 jugadores (champiñones) que tienen que evitar que la pelota caiga al agua. Si la pelota cae en el agua, el punto se le dará al jugador que no haya tocado la pelota. Digamos que el jugador 1 ha tocado la pelota, entonces, se volverá un poco más transparente solo para que sepamos que es el turno del jugador 2. Y si la pelota, cae en el agua, se le da un punto al jugador 1 porque el jugador 2 no la tocó
